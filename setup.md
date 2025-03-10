@@ -19,8 +19,8 @@ Make sure you install Python following the instructions on [the course website][
 2. Move downloaded files to `~/course/`.
 3. Unzip the files.
 
-You should see two folders called `data` and `code` in the newly created `exercises` directory on your
-Desktop.
+You should see two folders called `data` and `code` in the newly created `exercises` directory in
+your directory.
 
 ## Launch Python interface
 
@@ -61,5 +61,34 @@ A Jupyter Notebook provides a browser-based interface for working with Python.
 {{ page.root }}{% link fig/jupyter-notebook-launch-notebook2.png %})
 {: .solution}
 
-[python-install]: https://data-science-for-biotech.github.io/2023-08-21-dtu/
+## Option B: Visual Studio Code
+
+Visual Studio Code (or VS Code) is a powerful integrated development environment (IDE) that also supports writing
+Python code and running Jupyter Notebooks.
+
+> ## Command line (Terminal)
+>
+> 1\. Navigate to the `data` directory:
+>
+> > ## Unix shell
+> > If you're using a Unix shell application, such as Terminal app in macOS, Console or Terminal
+> > in Linux, or WSL on Windows, execute the following command:
+> > ~~~
+> > cd ~/course/exercises/data
+> > ~~~
+> > {: .language-bash}
+> {: .solution}
+>
+> 2\. Start VS Code
+>
+> > ## Unix shell
+> > ~~~
+> > code .
+> > ~~~
+> > {: .language-bash}
+> {: .solution}
+>
+
+
+[python-install]: https://data-science-for-biotech.github.io/2025-03-11-dtu/
 [zipfile]: {{ page.root }}/data/exercises.zip
