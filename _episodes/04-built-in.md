@@ -1,5 +1,5 @@
 ---
-title: "Built-in Functions and Help (Kai)"
+title: "Built-in Functions and Help"
 teaching: 10
 exercises: 10
 questions:

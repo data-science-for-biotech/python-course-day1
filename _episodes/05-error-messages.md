@@ -1,5 +1,5 @@
 ---
-title: "Error Messages (Kai)"
+title: "Error Messages"
 teaching: 5
 exercises: 10
 questions:

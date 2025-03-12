@@ -1,5 +1,5 @@
 ---
-title: "Programming Style (Niko)"
+title: "Programming Style"
 teaching: 10
 exercises: 15
 questions:

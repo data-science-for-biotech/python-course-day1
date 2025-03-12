@@ -1,6 +1,6 @@
 ---
-title: "Libraries (Kai)"
-teaching: 5
+title: "Libraries"
+teaching: 10
 exercises: 5
 questions:
 - "How can I use software that other people have written?"
