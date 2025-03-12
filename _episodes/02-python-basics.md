@@ -1,7 +1,7 @@
 ---
 title: Python Fundamentals
-teaching: 30
-exercises: 20
+teaching: 20
+exercises: 10
 questions:
 - "What basic data types can I work with in Python?"
 - "How can I create a new variable in Python?"

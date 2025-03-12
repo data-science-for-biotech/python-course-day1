@@ -1,8 +1,8 @@
 ---
 layout: break
-title: "Lunch break"
+title: "Morning break"
 teaching: 0
 exercises: 0
-break: 60
+break: 15
 ---
 
